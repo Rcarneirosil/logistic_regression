@@ -1,4 +1,4 @@
-### Modelo logístico de pré-diagnóstico de diabetes: um estudo de caso com dados do Kaggle
+# Modelo logístico de pré-diagnóstico de diabetes: um estudo de caso com dados do Kaggle
 
 ### Introdução
 
